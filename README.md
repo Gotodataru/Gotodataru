@@ -8,16 +8,6 @@ Working strategies are closed source.
 
 ---
 
-### Open Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [predicttrack](https://github.com/Gotodataru/predicttrack) | Python · Flask · Telegram · Claude API | SaaS tracker for Polymarket + Kalshi traders |
-| [algorithmic-trading-demo](https://github.com/Gotodataru/algorithmic-trading-demo) | Python · CCXT · pytest | Modular architecture for algo trading systems |
-| [tennis-ml-models](https://github.com/Gotodataru/tennis-ml-models) | CatBoost · scikit-learn | Research: ATP/WTA prediction — AUC 0.75, no exploitable edge found |
-| [1c_petconfig](https://github.com/Gotodataru/1c_petconfig) | 1C:Enterprise | Custom configuration built from scratch |
-
----
 
 ### Skills
 
