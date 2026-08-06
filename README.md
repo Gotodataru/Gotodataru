@@ -18,5 +18,4 @@ Working strategies are closed source.
 
 ---
 
-### Currently learning
-1C:Enterprise development
+
