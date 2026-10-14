@@ -1,40 +1,39 @@
 ## Kirill Chernyshev
 
-AI engineer. I build and run production systems: Python backends, LLM integrations,
-Telegram services and automation pipelines — from first commit to live deployment
-on my own servers.
+Product designer who ships to code. I take a product from the problem to a working
+interface: flows and states in Figma, a design system, and the React build that goes live.
 
-I work AI-first (Claude Code, Cursor) and own the parts that tooling can't: architecture,
-review, acceptance and operations — monitoring, watchdogs, incident triage.
+**Portfolio:** [gotodataru.github.io](https://gotodataru.github.io/)
 
 ---
 
-### What I ship
+### Case studies
 
-- **Backends & APIs** — FastAPI, PostgreSQL/PostGIS, SQLite, Celery, Redis, Alembic
-- **LLM integrations** — OpenAI / Anthropic APIs, RAG, prompt engineering, n8n workflows
-- **Telegram services** — aiogram bots, payments (Telegram Stars), schedulers, alerting
-- **Infrastructure** — Linux, systemd, Docker, Nginx, Let's Encrypt, Cloudflare, VPS deployment
-- **Data & ML** — pandas, scikit-learn, CatBoost, walk-forward validation, backtesting
-
----
-
-### Selected projects
-
-| Project | What it is |
+| | |
 |---|---|
-| [ai-ticket-triage](https://github.com/Gotodataru/ai-ticket-triage) | Webhook → Claude structured-output triage → SQLite → n8n automation. FastAPI reference implementation |
-| [task-marketplace-api](https://github.com/Gotodataru/task-marketplace-api) | Hyperlocal gig marketplace REST API — FastAPI, PostgreSQL/PostGIS, Celery, Redis, MinIO, Docker |
-| [binance-futures-backtest](https://github.com/Gotodataru/binance-futures-backtest) | Walk-forward backtesting framework, 3 years of tick data, explicit no-lookahead guarantees |
-| [algorithmic-trading-demo](https://github.com/Gotodataru/algorithmic-trading-demo) | Reference architecture for algorithmic trading systems |
-| [tennis-ml-models](https://github.com/Gotodataru/tennis-ml-models) | CatBoost models for ATP/WTA match outcomes with calibration reports |
-
-Several current projects are commercial and closed source — Telegram service with a live
-billing loop, a 24/7 market data collector on VPS, and a generative media pipeline.
-Happy to walk through architecture and demo them on a call.
+| **[Tenni Wallet](https://gotodataru.github.io/Tenni_Wallet_UIUX/)** | Crypto wallet with a debit card. Coded design system on one token set, Figma file with 40 screens in dark and light, 7 prototype flows (sign-up, identity check, tap-to-pay, card controls). Usability test protocol with thresholds fixed before the first session. · [Figma](https://www.figma.com/design/9VfEHWlaHH0LBl94VlaIQ1) · [Code](https://github.com/Gotodataru/Tenni_Wallet_UIUX) |
+| **[fightev](https://gotodataru.github.io/fightev/case/)** | Fight-night companion for UFC fans: the whole card on one screen, model vs market with an open calibration page. Solo product designer and developer on a commercial project. Usability-tested with 5 people. · [Live site](https://gotodataru.github.io/fightev/) · [Code](https://github.com/Gotodataru/fightev) |
 
 ---
 
-### Contact
+### How I work
 
-Telegram: [@gotodata](https://t.me/gotodata) · Email: multiakall@gmail.com
+- **States, not screens.** Loading, empty, error and success are designed and built, not left to the developer.
+- **Figma and code stay in sync.** Variables in Figma mirror CSS tokens one to one, checked by a script.
+- **Decide what counts as success before testing.** Thresholds go into the test protocol before anyone sees the prototype.
+- **Close the loop in code.** I build what I design, so trade-offs are made with real constraints in view.
+
+### Tools
+
+Figma (Auto Layout, variables, components, prototyping) · React, Vite, CSS, Tailwind ·
+Python, FastAPI and SQL, enough to work with a backend team.
+
+### Engineering side
+
+[ai-ticket-triage](https://github.com/Gotodataru/ai-ticket-triage) ·
+[task-marketplace-api](https://github.com/Gotodataru/task-marketplace-api) ·
+[binance-futures-backtest](https://github.com/Gotodataru/binance-futures-backtest)
+
+---
+
+Portfolio [gotodataru.github.io](https://gotodataru.github.io/) · Telegram [@gotodata](https://t.me/gotodata)
