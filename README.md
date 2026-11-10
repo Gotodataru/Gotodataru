@@ -12,7 +12,7 @@ interface: flows and states in Figma, a design system, and the React build that 
 | | |
 |---|---|
 | **[Tenni Wallet](https://gotodataru.github.io/Tenni_Wallet_UIUX/)** | Crypto wallet with a debit card. Coded design system on one token set, Figma file with 40 screens in dark and light, 7 prototype flows (sign-up, identity check, tap-to-pay, card controls). Usability test protocol with thresholds fixed before the first session. · [Figma](https://www.figma.com/design/9VfEHWlaHH0LBl94VlaIQ1) · [Code](https://github.com/Gotodataru/Tenni_Wallet_UIUX) |
-| **[fightev](https://gotodataru.github.io/fightev/case/)** | Fight-night companion for UFC fans: the whole card on one screen, model vs market with an open calibration page. Solo product designer and developer on a commercial project. Usability-tested with 5 people. · [Live site](https://gotodataru.github.io/fightev/) · [Code](https://github.com/Gotodataru/fightev) |
+| **[fightev](https://gotodataru.github.io/fightev-case/)** | UFC stats app: a forecast for every fight, 2,752 fighter profiles, rankings, an archive of 8,835 fights and an accuracy page where the model's misses stay visible. Solo product designer and developer (since 2024). Mockups tested with 6 people, community survey of 300+. · [Live site](https://fightev.com/) · [Code](https://github.com/Gotodataru/fightev) |
 
 ---
 
