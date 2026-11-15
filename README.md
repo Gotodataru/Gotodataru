@@ -1,4 +1,4 @@
-## Kirill Chernyshev
+## Kirill 
 
 Product designer who ships to code. I take a product from the problem to a working
 interface: flows and states in Figma, a design system, and the React build that goes live.
